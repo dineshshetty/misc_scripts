@@ -1,0 +1,6 @@
+This script would try and explot a SQLi vulnerability in the login page on one of tha application which i am testing. 
+The login page had 6 302 redirections and then allows login and thus using my other scripts or tools was pretty much time consuming. 
+
+This is one of my first python scripts so pardon me if i goof up some where. Just added multithreading to increase concurrent scans.
+
+
